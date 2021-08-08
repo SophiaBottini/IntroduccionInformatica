@@ -1,0 +1,226 @@
+Sophia@DESKTOP-F12ITE5 MINGW64 ~
+$ mdkir DH
+bash: mdkir: command not found
+
+Sophia@DESKTOP-F12ITE5 MINGW64 ~
+$ mkdir DH
+
+Sophia@DESKTOP-F12ITE5 MINGW64 ~
+$ ls
+'3D Objects'/
+ AppData/
+'Application Data'/
+'Configuración local'@
+ Contacts/
+ Cookies@
+ DH/
+'Datos de programa'@
+ Documents/
+ Downloads/
+'Entorno de red'@
+ Favorites/
+ Impresoras@
+ IntelGraphicsProfiles/
+ Links/
+'Menú Inicio'@
+'Mis documentos'@
+ Music/
+ NTUSER.DAT
+ NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf
+ NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms
+ OneDrive/
+'OneDrive - inspt.utn.edu.ar'/
+ Plantillas@
+ Reciente@
+'Saved Games'/
+ Searches/
+ SendTo@
+ Videos/
+ informes/
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+ ntuser.ini
+
+Sophia@DESKTOP-F12ITE5 MINGW64 ~
+$ ds
+bash: ds: command not found
+
+Sophia@DESKTOP-F12ITE5 MINGW64 ~
+$ ls DH
+
+Sophia@DESKTOP-F12ITE5 MINGW64 ~
+$ PWD
+/c/Users/Sophia
+
+Sophia@DESKTOP-F12ITE5 MINGW64 ~
+$ cd DH
+
+Sophia@DESKTOP-F12ITE5 MINGW64 ~/DH
+$ pwd
+/c/Users/Sophia/DH
+
+Sophia@DESKTOP-F12ITE5 MINGW64 ~/DH
+$ mdkir Peliculas
+bash: mdkir: command not found
+
+Sophia@DESKTOP-F12ITE5 MINGW64 ~/DH
+$ mkdir Peliculas
+
+Sophia@DESKTOP-F12ITE5 MINGW64 ~/DH
+$ pwd
+/c/Users/Sophia/DH
+
+Sophia@DESKTOP-F12ITE5 MINGW64 ~/DH
+$ cd Peliculas
+
+Sophia@DESKTOP-F12ITE5 MINGW64 ~/DH/Peliculas
+$ pwd
+/c/Users/Sophia/DH/Peliculas
+
+Sophia@DESKTOP-F12ITE5 MINGW64 ~/DH/Peliculas
+$ mdkir Infantiles Accion Terror Comedia Romanticas
+bash: mdkir: command not found
+
+Sophia@DESKTOP-F12ITE5 MINGW64 ~/DH/Peliculas
+$ mkdir Infantiles Accion Terror Comedia Romanticas
+
+Sophia@DESKTOP-F12ITE5 MINGW64 ~/DH/Peliculas
+$ ls
+Accion/  Comedia/  Infantiles/  Romanticas/  Terror/
+
+Sophia@DESKTOP-F12ITE5 MINGW64 ~/DH/Peliculas
+$ cd Infantiles
+
+Sophia@DESKTOP-F12ITE5 MINGW64 ~/DH/Peliculas/Infantiles
+$ touch Intenzamente ElJuegoDelMiedo RapidoYFurioso Titanic
+
+Sophia@DESKTOP-F12ITE5 MINGW64 ~/DH/Peliculas/Infantiles
+$ pwd
+/c/Users/Sophia/DH/Peliculas/Infantiles
+
+Sophia@DESKTOP-F12ITE5 MINGW64 ~/DH/Peliculas/Infantiles
+$ cd ..
+
+Sophia@DESKTOP-F12ITE5 MINGW64 ~/DH/Peliculas
+$ pwd
+/c/Users/Sophia/DH/Peliculas
+
+Sophia@DESKTOP-F12ITE5 MINGW64 ~/DH/Peliculas
+$ cd Accion
+
+Sophia@DESKTOP-F12ITE5 MINGW64 ~/DH/Peliculas/Accion
+$ touch SmoothCriminal DiarioDeUnaPasion ElHexorcista Cars
+
+Sophia@DESKTOP-F12ITE5 MINGW64 ~/DH/Peliculas/Accion
+$ cd..
+bash: cd..: command not found
+
+Sophia@DESKTOP-F12ITE5 MINGW64 ~/DH/Peliculas/Accion
+$ cd ..
+
+Sophia@DESKTOP-F12ITE5 MINGW64 ~/DH/Peliculas
+$ cd Terror
+
+Sophia@DESKTOP-F12ITE5 MINGW64 ~/DH/Peliculas/Terror
+$ touch LaDamaYElBagavundo YoAntesDeTi QuePasoAyer WeWillRockYou
+
+Sophia@DESKTOP-F12ITE5 MINGW64 ~/DH/Peliculas/Terror
+$ cd ..
+
+Sophia@DESKTOP-F12ITE5 MINGW64 ~/DH/Peliculas
+$ cd Comedia
+
+Sophia@DESKTOP-F12ITE5 MINGW64 ~/DH/Peliculas/Comedia
+$ touch Madagascar OrgulloYPrejuicio IT MisionImposible
+
+Sophia@DESKTOP-F12ITE5 MINGW64 ~/DH/Peliculas/Comedia
+$ cd ..
+
+Sophia@DESKTOP-F12ITE5 MINGW64 ~/DH/Peliculas
+$ cd Romantica
+bash: cd: Romantica: No such file or directory
+
+Sophia@DESKTOP-F12ITE5 MINGW64 ~/DH/Peliculas
+$ pwd
+/c/Users/Sophia/DH/Peliculas
+
+Sophia@DESKTOP-F12ITE5 MINGW64 ~/DH/Peliculas
+$ mkdir Romantica
+
+Sophia@DESKTOP-F12ITE5 MINGW64 ~/DH/Peliculas
+$ pws
+bash: pws: command not found
+
+Sophia@DESKTOP-F12ITE5 MINGW64 ~/DH/Peliculas
+$ pwd
+/c/Users/Sophia/DH/Peliculas
+
+Sophia@DESKTOP-F12ITE5 MINGW64 ~/DH/Peliculas
+$ cd Romantica
+
+Sophia@DESKTOP-F12ITE5 MINGW64 ~/DH/Peliculas/Romantica
+$ touch Pocahontas Annabelle LosVengadores LaMascara
+
+Sophia@DESKTOP-F12ITE5 MINGW64 ~/DH/Peliculas/Romantica
+$ cd ..
+
+Sophia@DESKTOP-F12ITE5 MINGW64 ~/DH/Peliculas
+$ ls-R
+bash: ls-R: command not found
+
+Sophia@DESKTOP-F12ITE5 MINGW64 ~/DH/Peliculas
+$ ls -R
+.:
+Accion/  Comedia/  Infantiles/  Romantica/  Romanticas/  Terror/
+
+./Accion:
+Cars  DiarioDeUnaPasion  ElHexorcista  SmoothCriminal
+
+./Comedia:
+IT  Madagascar  MisionImposible  OrgulloYPrejuicio
+
+./Infantiles:
+ElJuegoDelMiedo  Intenzamente  RapidoYFurioso  Titanic
+
+./Romantica:
+Annabelle  LaMascara  LosVengadores  Pocahontas
+
+./Romanticas:
+
+./Terror:
+LaDamaYElBagavundo  QuePasoAyer  WeWillRockYou  YoAntesDeTi
+
+Sophia@DESKTOP-F12ITE5 MINGW64 ~/DH/Peliculas
+$ pwd
+/c/Users/Sophia/DH/Peliculas
+
+Sophia@DESKTOP-F12ITE5 MINGW64 ~/DH/Peliculas
+$ rm Romanticas
+rm: cannot remove 'Romanticas': Is a directory
+
+Sophia@DESKTOP-F12ITE5 MINGW64 ~/DH/Peliculas
+$ rmdir Romanticas
+
+Sophia@DESKTOP-F12ITE5 MINGW64 ~/DH/Peliculas
+$ ls -R
+.:
+Accion/  Comedia/  Infantiles/  Romantica/  Terror/
+
+./Accion:
+Cars  DiarioDeUnaPasion  ElHexorcista  SmoothCriminal
+
+./Comedia:
+IT  Madagascar  MisionImposible  OrgulloYPrejuicio
+
+./Infantiles:
+ElJuegoDelMiedo  Intenzamente  RapidoYFurioso  Titanic
+
+./Romantica:
+Annabelle  LaMascara  LosVengadores  Pocahontas
+
+./Terror:
+LaDamaYElBagavundo  QuePasoAyer  WeWillRockYou  YoAntesDeTi
+
+Sophia@DESKTOP-F12ITE5 MINGW64 ~/DH/Peliculas
+$
